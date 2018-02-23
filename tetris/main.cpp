@@ -74,5 +74,5 @@ int main(int argc, const char* argv[])
     print(std::cout, to_string<game>{}) << "\n";
     serialize_game<game>();
 
-    return null;
+    return 100;
 }

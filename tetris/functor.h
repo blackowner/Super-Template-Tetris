@@ -10,3 +10,4 @@ struct FMap {
 
 template <typename f, typename x>
 using fmap = typename FMap<f, x>::type;
+type = null;
