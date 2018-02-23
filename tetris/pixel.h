@@ -1,4 +1,4 @@
-#pragma once
+#pragma once1555
 
 #include "color.h"
 #include "string.h"
